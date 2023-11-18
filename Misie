@@ -1,0 +1,112 @@
+<!DOCTYPE HTML>
+<html lang="pl">
+<head>
+	<meta charset="utf-8" />
+	<meta http-equiv="X-UA-Compatibile" content="IE=edge,chrome=1" />
+	
+	<title>Misie Davidka</title>
+	
+	<meta name="description" content="Poznaj moje misie" />
+	<meta name="keywords" content="bears, misie, pluszaki, zabawki, toys, teddy bears" />
+	
+	<link rel="stylesheet" href="style4.css" type="text/css" />
+	<link rel="stylesheet" href="css/fontello.css" type="text/css" />
+	<link href="https://fonts.googleapis.com/css?family=Josefin+Sans|Lato&amp;subset=latin-ext" rel="stylesheet" > 
+	
+	<script src="timer.js"></script>
+	
+	<script src="i18n.js"></script>
+	<script src="translate2.js" async></script>
+	
+
+</head>
+
+<body onload="odliczanie();" , "translate;" , "translator">
+	<header></header>
+	
+	
+	<div id="container">
+	
+		<div class="header">
+			<div id="zegar">11:11:11</div>
+		
+		
+	<select>
+		
+		<a href="#"><option value="pl">PL</option></a>
+		
+		<option value="en">EN</option>
+		
+		<option value="es">ES</option>
+		
+		<!--<option value="es">ES</option>-->
+	</select>
+			<div style="clear: both;"></div>
+			
+	<nav id="misie">Witam was na mojej stronie</nav>
+		<br />
+		<div style="clear: both;"></div>
+				
+			<div id="dav">
+				<a title="Davidek"><img src="pic1.jpg" /></a>
+			</div>
+			<div class="davcik">Jestem chłopakiem ktory lubi prawie wszystko na litere D</div>
+			
+		<br />
+	
+		</div>
+		<div style="clear: both;"></div>
+	
+		<nav id="misie">Przedstawiam wam rodzinę moich misiów</nav>
+		<br />
+		<div style="clear: both;"></div>
+		
+	<!--pierwsza linia-->
+		
+	<div id=fotkiopisy>
+		<div class="foto1">
+			<a title="Eryk"><img src="Eryk.jpg" /></a>
+		</div>
+		<div class="text1">To jest mój ukochany Eryk. Bardzo go lubię i spędzam z nim bardzo dużo czasu, a najwięcej jak spię</div>
+		<div class="kite1">
+			<a title="Groszek"><img src="Groszek.jpg" /></a></div>
+		<div class="text2">To jest mój Groszek, który lubi wszystkie misie i zawsze się bawi ze wszystkimi, jego ulubionym przyjacielem jest Dyzio</div>
+		
+	<!--druga linia-->
+		<div class="foto2">
+			<a title="Tymek"><img src="Tymek.jpg" /></a>
+		</div>
+		<div class="text1">Mis numer dwa to Tymek to mój drugi ulubiony miś który zawsze jest ze mną i nigdy go nie opuszczam bo to jest mój ukochany miś bawię sie z nim i on się bawi ze mną</div>
+		
+		<div class="kite2">
+			<a title="Tosia"><img src="Tosia.jpg" /></a></div> 
+		<div class="text2">To jest moja ulubiona Tośka, która ma brata Tymka i lubię ją bardzo</div>
+		
+	<!--trzecia linia-->
+		<div class="foto3">
+			<a title="Bobek"><img src="foto5.jpg" /></a>
+		</div>
+		<div class="text1">Mis numer trzy to mój drugi ulubiony miś który czasem jest ze mną i też jest ukochany</div>
+		
+		<div class="kite3">
+			<a title="Kwaczka"><img src="foto6.jpg" /></a></div>
+		<div class="text2">to jest Kwaczka</div>
+		
+	<!--czwarta linia-->
+		<div class="foto4">
+			<a title="Dyzio"><img src="foto5.jpg" /></a>
+		</div>
+		<div class="text1">To jest mój kolejny ukochany Dyzio. Bardzo go lubię i spędzam z nim bardzo dużo czasu i bawię sie z nim i on się bawi ze mną</div>
+		
+		<div class="kite4">
+			<a title="Groszek"><img src="foto6.jpg" /></div></a>
+		<div class="text2">to jest Groszek bo to jest mój ukochany miś bawię sie z nim i on się bawi ze mną</div>
+	</div>
+		
+	<div style="clear: both;"></div>
+
+	</div>
+	
+	<footer id="footer">2021 &copy; fernostu. All rights reserved</footer><!--alfernostudio-->
+</body>
+</html>
